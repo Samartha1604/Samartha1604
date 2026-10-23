@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Samartha1604&amp;label=PROFILE+VIEWS&amp;color=8B5CF6&amp;style=for-the-badge" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Samartha1604.Samartha1604&amp;left_text=PROFILE%20VIEWS&amp;left_color=%230D1117&amp;right_color=%238B5CF6" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Samartha1604?label=FOLLOWERS&amp;style=for-the-badge&amp;color=22D3EE&amp;labelColor=0D1117" alt="GitHub followers" />
 <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS%20%26%20COLLABS-0D1117?style=for-the-badge&amp;labelColor=0D1117&amp;color=8B5CF6" alt="Open to internships and collaborations" />
 
