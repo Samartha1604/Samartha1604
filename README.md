@@ -8,7 +8,7 @@
 <img src="./assets/banner.svg" alt="Samartha Padwekar — B.E. Computer Science and Engineering" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=900&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=64&amp;lines=B.E.+CSE+Student+%F0%9F%8E%93;Full-Stack+Developer+in+the+making+%F0%9F%9A%80;DSA+%26+Problem+Solving+Enthusiast+%F0%9F%A7%A0;Open+Source+Enthusiast+%F0%9F%8C%B1;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing animation: B.E. CSE Student, Full-Stack Developer in the making, DSA and Problem Solving Enthusiast, Open Source Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=900&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=64&amp;lines=Second-Year+B.E.+CSE+Student+%F0%9F%8E%93;Learning+Full-Stack+Development+%F0%9F%9A%80;DSA+%26+Problem+Solving+Enthusiast+%F0%9F%A7%A0;Exploring+Open+Source+%F0%9F%8C%B1;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing animation: Second-Year B.E. CSE Student, Learning Full-Stack Development, DSA and Problem Solving Enthusiast, Exploring Open Source" />
 </a>
 
 <br/>
@@ -23,20 +23,21 @@
 
 ## 🧑‍💻 About Me
 
-Hey there! I'm **Samartha Padwekar**, a **B.E. Computer Science & Engineering** student who enjoys turning ideas into clean, functional software. I'm driven by curiosity, powered by consistency, and always up for a good problem to solve.
+Hey there! I'm **Samartha Padwekar**, a **second-year B.E. Computer Science & Engineering** student who enjoys turning ideas into clean, functional software. I'm driven by curiosity, powered by consistency, and always up for a good problem to solve.
 
 ```ts
 const samartha = {
   education: "B.E. Computer Science & Engineering",
-  role: "Student • Developer • Lifelong Learner",
-  focus: ["Data Structures & Algorithms", "Full-Stack Development", "Open Source"],
-  currentlyLearning: ["System Design", "AI & Machine Learning"],
+  year: "Second Year",
+  role: "Student • Learner • Builder",
+  focus: ["Data Structures & Algorithms", "Web Development", "Learning in Public"],
+  currentlyLearning: ["Backend Development", "AI & Machine Learning"],
   lookingFor: ["Internships", "Collaborations", "Open-Source Projects"],
   motto: "Learn. Build. Share. Repeat.",
 };
 ```
 
-- 🔭 Currently building projects that challenge me to think bigger
+- 🔭 Building small projects to strengthen my fundamentals
 - 🌱 Sharpening my DSA skills one problem at a time
 - 🤝 Open to collaborating on student-friendly open-source projects
 - ⚡ Fun fact: I believe every bug is just a feature waiting for a better story
@@ -47,15 +48,17 @@ const samartha = {
 
 | 🎯 Goal | 🧭 What I'm doing about it |
 | :--- | :--- |
-| **Master DSA** | Solving problems consistently and learning to think in patterns, not just answers. |
-| **Ship real products** | Building and deploying full-stack projects that solve real problems. |
-| **Contribute to open source** | Learning in public and giving back to the tools and communities I use. |
-| **Land a great internship** | Sharpening fundamentals, building a strong portfolio, and staying interview-ready. |
-| **Explore AI/ML** | Understanding the technology shaping the next decade — one project at a time. |
+| **Strengthen DSA** | Solving problems consistently and learning to think in patterns, not just answers. |
+| **Build real projects** | Building and deploying small full-stack projects that solve real problems. |
+| **Start contributing to open source** | Learning in public and making my first contributions to tools I use. |
+| **Get my first internship** | Sharpening fundamentals, building a small portfolio, and staying interview-ready. |
+| **Explore AI/ML** | Learning the basics through small experiments and projects. |
 
 ---
 
 ## 🛠️ Tech Stack
+
+*A snapshot of what I've used so far — still learning, always adding.*
 
 <div align="center">
 
